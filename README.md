@@ -12,3 +12,5 @@
 <img src="./public/images/html.png" alt="html">
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/html-css.png" alt="css">
+<h2>Punto 4: HTML - CSS</h2>
+<img src="./public/images/punto-4-html-css.png" alt="texto">
