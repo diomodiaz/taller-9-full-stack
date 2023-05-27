@@ -1,0 +1,19 @@
+body{
+    margin-top: 10%;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+}
+.link-1 a{
+    color: #F7FF00;
+    font-size: 30px;
+}
+.link-2 a{
+    color: #AD00B8;
+    font-size: 30px;
+}
