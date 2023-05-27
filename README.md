@@ -12,9 +12,11 @@
 <img src="./public/images/html.png" alt="html">
 <h2>Punto 3: CSS</h2>
 <img src="./public/images/html-css.png" alt="css">
-<h2>Punto 4: COLORES</h2>
+<h2>Punto 4: TITULOS</h2>
 <img src="./public/images/punto-4-html-css.png" alt="titulos">
 <h2>Punto 5: TEXTO</h2>
 <img src="./public/images/punto-5-html-css.png" alt="texto">
 <h2>Punto 6: ENLACES</h2>
 <img src="./public/images/punto-6-html-css.png" alt="enlaces">
+<h2>Punto 7-8: NAVEGACIÓN</h2>
+<img src="./public/images/punto-7-8-html-css.png" alt="enlaces">
