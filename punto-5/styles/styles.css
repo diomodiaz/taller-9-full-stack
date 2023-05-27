@@ -1,0 +1,42 @@
+body{
+    margin-top: 20%;
+}
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div{
+    margin-left: 310px;
+    margin-right: 310px;
+}
+p{
+    font-size: 16px;
+}
+.subrayada-green{
+    color: #1BB303;
+    text-decoration: underline;
+}
+.red{
+    color: #FF0000;
+    font-weight: 700;
+}
+.underover{
+    text-decoration: underline overline;
+}
+.large{
+    font-size: 40px;
+    font-weight: 700;
+}
+.azul{
+    color: #0027FF;
+    font-weight: 700;
+    font-size: 18px;
+}
+.subrayada-red{
+    color: #FF0000;
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration-thickness: 2px;
+}

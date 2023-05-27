@@ -14,3 +14,5 @@
 <img src="./public/images/html-css.png" alt="css">
 <h2>Punto 4: HTML - CSS</h2>
 <img src="./public/images/punto-4-html-css.png" alt="texto">
+<h2>Punto 5: PARRAFO - HTML - CSS</h2>
+<img src="./public/images/punto-5-html-css.png" alt="texto">
