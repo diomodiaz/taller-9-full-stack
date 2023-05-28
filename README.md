@@ -19,4 +19,6 @@
 <h2>Punto 6: ENLACES</h2>
 <img src="./public/images/punto-6-html-css.png" alt="enlaces">
 <h2>Punto 7-8: NAVEGACIÓN</h2>
-<img src="./public/images/punto-7-8-html-css.png" alt="enlaces">
+<img src="./public/images/punto-7-8-html-css.png" alt="menu">
+<h2>Punto 9: TABLAS</h2>
+<img src="./public/images/punto-9-html-css.png" alt="tablas">
