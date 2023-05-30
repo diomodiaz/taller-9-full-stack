@@ -1,64 +1,44 @@
-body {
-  text-align: center;
-  color: #000000b5;
-  font-family: system-ui, -apple-system;
+body{
+    margin-bottom: 73px;
+    background:linear-gradient(to bottom,#86dee6,#fff)
 }
-
-body, div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-div {
-  flex-direction: column;
-  width: 50%;
-  height: 50%;
-  text-align: center;
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 1200px;
+    height: 500px;
+    padding: 10px;
 }
 
 h1 {
-  font-size: 58px;
+    font-size: 50px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 30px;
+    margin-bottom: 100px;
+    text-align: center;
+  }
+  a{
+    text-decoration:none;
+    color: #454868;
+    font-size: 20px;
+    font-family: 'Arial';
+    font-weight: bold;
+  }
+.button-1{
+    border-radius: 5px;
+    padding: 15px;
+    background-color: #fd8f54e2;
 }
-
-h2 {
-  font-size: 32px;
+.button-1:hover{
+    background: #E66804;
+    color: #FFF;
+    cursor: pointer;
 }
-
-nav {
-  width: 40%;
-}
-
-ul {
-  padding: 0;
-  text-align: center;
-  list-style: none;
-}
-
-li {
-  margin: 50px 0;
-}
-
-p {
-  margin: 40px 0 30px;
-  color: #000000ae;
-  font-size: 17px;
-  border-bottom: 1px solid;
-}
-
-a {
-  padding: 12px 25px;
-  color: #ffffff;
-  background-color: #fd8f54e2;
-  border: none;
-  border-radius: 5px;
-  font-family: system-ui, -apple-system;
-  font-size: 14px;
-  font-weight: bold;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-a:hover {
-  background-color: #e87537e2;
+a:hover{
+    color: #FFF;
 }
