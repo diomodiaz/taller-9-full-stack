@@ -1,14 +1,12 @@
 body{
     margin-bottom: 73px;
-    background:linear-gradient(to bottom,#86dee6,#fff)
+    background:linear-gradient(to bottom,#86dee6,#fff) no-repeat;
 }
 section{
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 30px;
-    width: 1200px;
-    height: 500px;
     padding: 10px;
 }
 
